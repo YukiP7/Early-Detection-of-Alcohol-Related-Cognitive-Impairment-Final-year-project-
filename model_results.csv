@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1
+LogisticRegression,87.5,1.0,0.75,0.8571428571428571
+RandomForest,75.0,0.75,0.75,0.75
+XGBoost,50.0,0.5,0.5,0.5
+SVM,75.0,0.75,0.75,0.75

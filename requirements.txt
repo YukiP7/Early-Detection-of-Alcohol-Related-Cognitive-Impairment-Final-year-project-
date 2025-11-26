@@ -3,4 +3,12 @@ matplotlib
 seaborn
 numpy
 scikit-learn
+ipykernel
+mne 
+scipy
+xgboost 
+shap 
+joblib 
+antropy
+dataframe-image
 
