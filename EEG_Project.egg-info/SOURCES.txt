@@ -1,0 +1,7 @@
+README.md
+setup.py
+EEG_Project.egg-info/PKG-INFO
+EEG_Project.egg-info/SOURCES.txt
+EEG_Project.egg-info/dependency_links.txt
+EEG_Project.egg-info/top_level.txt
+src/__init__.py
