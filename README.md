@@ -42,7 +42,7 @@ This project focuses on the **early detection of cognitive decline** caused by a
 
 ---
 
-## 👥 Team — Team Cardio
+## 👥 Team — Team NeuroScan
 
 | Name | Role |
 |------|------|
